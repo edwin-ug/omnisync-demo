@@ -1,6 +1,6 @@
 # ⚡️ OmniSync: Multi-Channel Inventory Middleware (Architecture & Docs)
 
-> **🚀 Download the Boilerplate:** The complete, production-ready source code, database schemas, and configuration files for this middleware are available here: **[Get the OmniSync Boilerplate](INSERT YOUR GUMROAD LINK HERE)**
+> **🚀 Download the Boilerplate:** The complete, production-ready source code, database schemas, and configuration files for this middleware are available here: **https://edwinkomagum.gumroad.com/l/mvukuw**
 
 This repository provides the architectural overview and API documentation for the **OmniSync Spring Boot Boilerplate**. 
 
